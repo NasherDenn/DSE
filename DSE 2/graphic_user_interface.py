@@ -6,6 +6,7 @@ from PyQt5.QtGui import *
 import sys
 import os
 
+
 # создаём приложение
 app = QApplication(sys.argv)
 # создаём окно приложения
